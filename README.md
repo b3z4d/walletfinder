@@ -16,6 +16,10 @@
   </p>
   
 ---
+<p align="center">
+<img src="screenshots/cover.jpg" alt="Wallet Finder Cover" width="640"/>
+</p>
+
 
 ## 📱 About the App
 
@@ -62,7 +66,7 @@ Version 3.0 introduces a completely redesigned user interface, improved performa
         <strong>Home Screen</strong>
       </td>
       <td align="center">
-        <img src="screenshots/wallet_details.jpg" alt="Wallet Details" width="250"/>
+        <img src="screenshots/auto_update.jpg" alt="Auto Update" width="250"/>
         <br/>
         <strong>Wallet Details</strong>
       </td>
@@ -76,12 +80,31 @@ Version 3.0 introduces a completely redesigned user interface, improved performa
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/seed_generator.jpg" alt="Seed Generator" width="250"/>
+        <img src="screenshots/balance_check.jpg" alt="Balance Check" width="250"/>
         <br/>
         <strong>Seed Generator</strong>
       </td>
       <td align="center">
-        <img src="screenshots/balance_check.jpg" alt="Balance Check" width="250"/>
+        <img src="screenshots/balance_check1.jpg" alt="Balance Check" width="250"/>
+        <br/>
+        <strong>Wallet Balance Check</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots/wallet_details.jpg" alt="Wallet Details" width="250"/>
+        <br/>
+        <strong>Seed Generator</strong>
+      </td>
+      <td align="center">
+        <img src="screenshots/seed_generator.jpg" alt="Balance Check" width="250"/>
         <br/>
         <strong>Wallet Balance Check</strong>
       </td>
