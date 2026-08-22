@@ -6,11 +6,15 @@
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/API-21%2B-orange.svg" alt="Min API">
 </p>
-  <a href="./Wallet-Finder.apk"><img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK"></a>
+
 <p align="center">
   <strong>A Powerful Tool for Finding and Recovering Cryptocurrency Wallets</strong>
 </p>
 
+<p align="center">
+  <a href="./Wallet-Finder.apk"><img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK"></a>
+  </p>
+  
 ---
 
 ## 📱 About the App
