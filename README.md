@@ -57,12 +57,12 @@ Version 3.0 introduces a completely redesigned user interface, improved performa
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/home_screen.png" alt="Home Screen" width="250"/>
+        <img src="screenshots/home_screen.jpg" alt="Home Screen" width="250"/>
         <br/>
         <strong>Home Screen</strong>
       </td>
       <td align="center">
-        <img src="screenshots/wallet_details.png" alt="Wallet Details" width="250"/>
+        <img src="screenshots/wallet_details.jpg" alt="Wallet Details" width="250"/>
         <br/>
         <strong>Wallet Details</strong>
       </td>
@@ -76,12 +76,12 @@ Version 3.0 introduces a completely redesigned user interface, improved performa
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/seed_generator.png" alt="Seed Generator" width="250"/>
+        <img src="screenshots/seed_generator.jpg" alt="Seed Generator" width="250"/>
         <br/>
         <strong>Seed Generator</strong>
       </td>
       <td align="center">
-        <img src="screenshots/balance_check.png" alt="Balance Check" width="250"/>
+        <img src="screenshots/balance_check.jpg" alt="Balance Check" width="250"/>
         <br/>
         <strong>Wallet Balance Check</strong>
       </td>
