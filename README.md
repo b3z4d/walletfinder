@@ -1,7 +1,7 @@
 # Crypto Wallet Finder - Android
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="Version 3.0">
+  <img src="https://img.shields.io/badge/version-3.5-blue.svg" alt="Version 3.5">
   <img src="https://img.shields.io/badge/platform-Android-brightgreen.svg" alt="Platform">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/API-21%2B-orange.svg" alt="Min API">
@@ -25,7 +25,7 @@
 
 **Crypto Wallet Finder** is an open-source Android application designed to help users find and recover lost or forgotten cryptocurrency wallets. The application uses advanced algorithms to generate and validate Seed (Mnemonic) phrases and check the balances of different cryptocurrency wallets.
 
-Version 3.0 introduces a completely redesigned user interface, improved performance, and new features to provide a smoother and more professional user experience.
+Version 3.5 introduces a completely redesigned user interface, improved performance, and new features to provide a smoother and more professional user experience.
 
 ---
 
@@ -38,7 +38,7 @@ Version 3.0 introduces a completely redesigned user interface, improved performa
 - **Wallet Balance Checking** — Connect to blockchain networks and display accurate wallet balances.
 - **Local Storage** — All scanned wallets are securely stored locally on the device.
 
-### 🚀 What's New in Version 3.0
+### 🚀 What's New in Version 3.5
 
 - **Redesigned User Interface** — A modern and minimalist design with an improved user experience.
 - **Improved Speed** — Optimized search engine for faster wallet processing and checking.
