@@ -150,11 +150,10 @@ Version 3.5 introduces a completely redesigned user interface, improved performa
 
 ## 🚀 How to Use
 
-1. **Check Wallet Balance:** Enter your wallet address or scan its QR code.
-2. **Generate a Seed Phrase:** Use the Seed Generator section to create a 12-word or 24-word seed phrase.
-3. **Recover Your Personal Wallet:** Enter the seed phrase associated with your own wallet and review the related wallet information.
-4. **View Details:** Check wallet balances and transaction information.
-5. **Save Wallets:** Save selected wallets locally for faster access later.
+1. **Generate a Seed Phrase:** Use the Seed Generator section to create a 12-word or 24-word seed phrase.
+2. **Recover Your Personal Wallet:** Enter the seed phrase associated with your own wallet and review the related wallet information.
+3. **View Details:** Check wallet balances and transaction information.
+4. **Save Wallets:** Save selected wallets locally for faster access later.
 
 ---
 
